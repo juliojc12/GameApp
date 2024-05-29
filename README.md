@@ -1,6 +1,6 @@
 # GameApp
 
-um projeto simple com uso de:
+um projeto simples com uso de:
 
     - REACT
     - TAILWINDCSS
